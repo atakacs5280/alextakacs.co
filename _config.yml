@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/atakacs5280.github.io" # the subpath of your site, e.g. /blog/
-url: "http://atakacs5280.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.alextakacs.co" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -68,7 +68,7 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rogue #pygments
 sass:
   sass_dir: _sass
   style: :compressed
