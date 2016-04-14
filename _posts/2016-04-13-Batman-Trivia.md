@@ -30,12 +30,14 @@ Fear not, this template is so simple all you have to edit is the strings in the 
 
 As I said before, Batman needed humor so I gave him some. In my case the skill I created was a simple trivia game. It started off as trivia about Reindeer, and I made it a game about Batman. Here is a sample question from my trivia....
 
+```
 "When batman was a child, his parents did what specific thing?": [
             "Died",
             "Lied",
             "Bought batman a kickass motorcycle",
             "Entered him into beauty pagents"
             ]
+```
 
 Yes, thats a sensitive topic, but also true. His parents died and without that event we wouldn't have batman. Silver lining?
 
