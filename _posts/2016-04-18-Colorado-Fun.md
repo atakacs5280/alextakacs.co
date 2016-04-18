@@ -17,7 +17,7 @@ The burger should come from a place where grills are abundant, and cheddar is lo
 
 "But Alex, why are you talking about burgers and their connection to Colorado?"
 
-Because, I built another Amazon Alexa (Colorado Geek, search for it in that Alexa App store) skill and the topic was Colorado facts. What facts? all of the facts. I only got about 70. Aside from being really high above sea level and the cheeseburger thing, Colorado is pretty mellow. Us Coloradans like it that way.
+Because, I built another Amazon Alexa Skill (Colorado Geek, search for it in that Alexa App store) and the topic was Colorado facts. What facts? all of the facts. I only got about 70. Aside from being really high above sea level and the cheeseburger thing, Colorado is pretty mellow. Us Coloradans like it that way.
 
 As I said in my last post creating skills for Amazon Alexa is super easy and in a lot of ways fun. There are many template that you can download and edit to your liking. Doing this not only is easy but gets you through the process and the details of creating the App.
 
