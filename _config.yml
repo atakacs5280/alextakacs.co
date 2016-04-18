@@ -10,7 +10,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
+     <h1>Software Ninja</h1>
      <p>This is my journey through software, Stoicism, Brazilian Jiu Jitsu, and everything inbetween.</p>
   header_text_feature_image:
   footer_text: >
