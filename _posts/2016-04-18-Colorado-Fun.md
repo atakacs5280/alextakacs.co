@@ -6,6 +6,9 @@ title: The cheeseburger was trademarked in Colorado!?
 Yeah! it was. I had no idea either. I love cheeseburgers and for some reason know very little about them. I know that one dude in the northeast claimed that he invented them and the true way to make cheeseburgers was to steam them in, what looks like, tiny meatloaf pans.
 
 **Steamed Burgers (Ted's Restaurant, CT)**
+
+
+
 ![alt text](http://www.hollyeats.com/images/NewEngland/Teds-Cooker.jpg "Ted's Steamed Burgers")
 
 That to me looks weird and completely bypasses the idea of what America knows as a burger! No grill, cooked inside a tiny box, and served with what looks like provolone cheese! This is not cool.
